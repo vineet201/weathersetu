@@ -5,13 +5,13 @@ importScripts(
 
 // Replace these with your own Firebase config keys...
 const firebaseConfig = {
-  apiKey: "AIzaSyBhyCJgp7bMXjl5tSUIYbYMzgMaC3eoNaQ",
-  authDomain: "weathersetu.firebaseapp.com",
-  projectId: "weathersetu",
-  storageBucket: "weathersetu.firebasestorage.app",
-  messagingSenderId: "448438257043",
-  appId: "1:448438257043:web:6ae006b5dd8610ae6f1466",
-  measurementId: "G-77TK97K4M8"
+  apiKey: "AIzaSyBHdrOAa85ljlzdHBAYdIXiaaWBz0UFz1w",
+  authDomain: "fcmsetu.firebaseapp.com",
+  projectId: "fcmsetu",
+  storageBucket: "fcmsetu.firebasestorage.app",
+  messagingSenderId: "348329848854",
+  appId: "1:348329848854:web:7e91b82f4b4592d87d4537",
+  measurementId: "G-2MWX8L7RZ3"
 };
 firebase.initializeApp(firebaseConfig);
 
